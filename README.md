@@ -25,3 +25,6 @@ The system is designed to boost productivity by keeping task lists organized and
 👉Database: MongoDB
 
 👉Development Tools: npm, nodemon, react-scripts
+
+**Note:**
+After downloading the application files, ensure that all necessary dependencies are installed by running the following commands to install npm, nodemon, and react-scripts. This will allow the application to run smoothly without any errors.
