@@ -1,6 +1,6 @@
-The Task Management System is a full-stack web application that helps users create, manage, and track their daily tasks efficiently.
+The Task Management System is a full-stack web application that helps users create, manage and track their daily tasks efficiently.
 
-It provides a simple and user-friendly interface to add new tasks, mark them as completed, and delete them when no longer needed. 
+It provides a simple and user-friendly interface to add new tasks, mark them as completed and delete them when no longer needed. 
 
 The system is designed to boost productivity by keeping task lists organized and accessible.
 
@@ -27,4 +27,4 @@ The system is designed to boost productivity by keeping task lists organized and
 👉Development Tools: npm, nodemon, react-scripts
 
 **Note:**
-After downloading the application files, ensure that all necessary dependencies are installed by running the following commands to install npm, nodemon, and react-scripts. This will allow the application to run smoothly without any errors.
+After downloading the application files, ensure that all necessary dependencies are installed by running the following commands to install npm, nodemon and react-scripts. This will allow the application to run smoothly without any errors.
